@@ -10,8 +10,8 @@ Solutions to LeetCode problems, solved while learning Data Structures & Algorith
 | Medium | 0 |
 | Hard | 0 |
 
-🔗 [My LeetCode Profile](https://leetcode.com/u/Ankush_Khan/)
-# [My linkdln prifile](https://www.linkedin.com/in/ankush-khan-6a6219411/)
+# [My LeetCode Profile](https://leetcode.com/u/Ankush_Khan/)
+=> [My linkdln prifile](https://www.linkedin.com/in/ankush-khan-6a6219411/)
 
 ## 📁 Structure
 Each folder is named `[problem-number]-[problem-name]` and contains my solution with explanation.
