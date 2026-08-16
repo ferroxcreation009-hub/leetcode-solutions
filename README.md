@@ -5,9 +5,9 @@ Solutions to LeetCode problems, solved while learning Data Structures & Algorith
 ## 📊 Progress
 | Metric | Count |
 |---|---|
-| Problems Solved | 24 |
-| Easy | 18 |
-| Medium | 6 |
+| Problems Solved | 32 |
+| Easy | 23 |
+| Medium | 9 |
 | Hard | 0 |
 
 # [My LeetCode Profile](https://leetcode.com/u/Ankush_Khan/)
